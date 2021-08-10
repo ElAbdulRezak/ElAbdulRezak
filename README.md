@@ -5,3 +5,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElAbdulRezak)](https://github.com/anuraghazra/github-readme-stats)
 
 Please Follow ![GitHub followers](https://img.shields.io/github/followers/ElAbdulRezak?style=social)
+
+![GitHub Release Date](https://img.shields.io/github/release-date/ElAbdulRezak/Windows-Tweaks-And-Optimization) NOT RELEASE
