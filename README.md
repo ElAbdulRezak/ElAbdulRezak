@@ -4,12 +4,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElAbdulRezak)](https://github.com/anuraghazra/github-readme-stats)
 
-Please Follow ![GitHub followers](https://img.shields.io/github/followers/ElAbdulRezak?style=social)
-
 ![GitHub all releases](https://img.shields.io/github/downloads/ElAbdulRezak/Windows-Tweaks-And-Optimization/total)
 
 ---
 
-📺 Follow My Social Media Account
+🤳 Follow My Social Media Account
 
 ▶ [İnstagram](https://instagram.com/elabdulrezak?utm_medium=copy_link)
+
+📝 My latest Project
+
+▶ [Windows 10/11 Version Optimization]()
