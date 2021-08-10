@@ -4,4 +4,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElAbdulRezak)](https://github.com/anuraghazra/github-readme-stats)
 
-![AppVeyor](https://img.shields.io/appveyor/build/ElAbdulRezak/Windows-Tweaks-And-Optimization)
+Please Follow ![GitHub followers](https://img.shields.io/github/followers/ElAbdulRezak?style=social)
