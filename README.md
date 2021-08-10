@@ -3,3 +3,5 @@
 ## &#x1f4c8; My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElAbdulRezak)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="AppVeyor" src="https://img.shields.io/appveyor/build/ElAbdulRezak/Windows-Tweaks-And-Optimization?style=flat-square">
