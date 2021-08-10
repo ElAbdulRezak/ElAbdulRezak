@@ -6,4 +6,3 @@
 
 Please Follow ![GitHub followers](https://img.shields.io/github/followers/ElAbdulRezak?style=social)
 
-![GitHub Release Date](https://img.shields.io/github/release-date/ElAbdulRezak/Windows-Tweaks-And-Optimization) NOT RELEASE
