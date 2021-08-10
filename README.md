@@ -7,3 +7,9 @@
 Please Follow ![GitHub followers](https://img.shields.io/github/followers/ElAbdulRezak?style=social)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/ElAbdulRezak/Windows-Tweaks-And-Optimization/total)
+
+---
+
+📺 Follow My Social Media Account
+
+▶ [İnstagram](https://instagram.com/elabdulrezak?utm_medium=copy_link)
