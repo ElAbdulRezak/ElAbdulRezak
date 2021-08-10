@@ -10,7 +10,7 @@
 
 🤳 Follow My Social Media Account
 
-▶ [İnstagram](https://instagram.com/elabdulrezak?utm_medium=copy_link)
+▶ [Instagram](https://instagram.com/elabdulrezak?utm_medium=copy_link)
 
 📝 My latest Project
 
